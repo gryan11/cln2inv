@@ -1,5 +1,5 @@
 # CLN2INV
-This is the open source implmentation of CLN2INV, the loop invariant inference system from our ICLR 2020 [paper](https://arxiv.org/pdf/1909.11542.pdf), _CLN2INV: Learning Loop Invariants with Continuous Logic Networks_.
+CLN2INV is the loop invariant inference system from our ICLR 2020 [paper](https://arxiv.org/pdf/1909.11542.pdf), _CLN2INV: Learning Loop Invariants with Continuous Logic Networks_. 
 
 ![arch](imgs/arch.png)
 
