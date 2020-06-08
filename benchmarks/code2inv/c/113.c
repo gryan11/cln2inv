@@ -9,6 +9,7 @@ int main() {
   // pre-conditions
   (sn = 0);
   (i = 1);
+  assume(n >= 1);
   // loop body
   while ((i <= n)) {
     {

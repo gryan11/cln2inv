@@ -26,3 +26,9 @@ You may also run individual problems. For example, to run problem 5:
 python cln2inv.py 5
 ```
 
+You can regenerate training samples for each problem. For example, to record execution traces for problem 5,
+```bash
+cd cln
+python instrument.py 5
+```
+

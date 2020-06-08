@@ -9,6 +9,7 @@ int main() {
   // pre-conditions
   (sn = 0);
   (i = 1);
+  assume(size >= 1);
   // loop body
   while ((i <= size)) {
     {
